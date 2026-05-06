@@ -15,3 +15,19 @@
 // --------------------
 // Tschüss
 // --------------------
+
+#include <iostream>
+
+void linie() {
+    printf("\n--------------------\n");
+}
+
+int main() {
+    linie();
+    std::cout << "Hallo";
+    linie();
+    std::cout << "Tschüss";
+    linie();
+
+    return 0;
+}
