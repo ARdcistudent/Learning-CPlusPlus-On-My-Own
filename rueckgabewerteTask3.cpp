@@ -26,3 +26,9 @@
 // {
 //     std::cout << "Ungerade";
 // }
+
+#include <iostream>
+
+bool istGerade(int zahl) {
+    
+}
